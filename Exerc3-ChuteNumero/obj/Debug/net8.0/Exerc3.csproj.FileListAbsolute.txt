@@ -1,0 +1,15 @@
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\Atos\Csharp\POO\Exercicios\Exerc3\obj\Debug\net8.0\Exerc3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\Atos\Csharp\POO\Exercicios\Exerc3\obj\Debug\net8.0\Exerc3.AssemblyInfoInputs.cache
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\Atos\Csharp\POO\Exercicios\Exerc3\obj\Debug\net8.0\Exerc3.AssemblyInfo.cs
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\Atos\Csharp\POO\Exercicios\Exerc3\obj\Debug\net8.0\Exerc3.csproj.CoreCompileInputs.cache
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\Atos\Csharp\POO\Exercicios\Exerc3\obj\Debug\net8.0\Exerc3.sourcelink.json
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\Atos\Csharp\POO\Exercicios\Exerc3\bin\Debug\net8.0\Exerc3.exe
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\Atos\Csharp\POO\Exercicios\Exerc3\bin\Debug\net8.0\Exerc3.deps.json
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\Atos\Csharp\POO\Exercicios\Exerc3\bin\Debug\net8.0\Exerc3.runtimeconfig.json
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\Atos\Csharp\POO\Exercicios\Exerc3\bin\Debug\net8.0\Exerc3.dll
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\Atos\Csharp\POO\Exercicios\Exerc3\bin\Debug\net8.0\Exerc3.pdb
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\Atos\Csharp\POO\Exercicios\Exerc3\obj\Debug\net8.0\Exerc3.dll
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\Atos\Csharp\POO\Exercicios\Exerc3\obj\Debug\net8.0\refint\Exerc3.dll
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\Atos\Csharp\POO\Exercicios\Exerc3\obj\Debug\net8.0\Exerc3.pdb
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\Atos\Csharp\POO\Exercicios\Exerc3\obj\Debug\net8.0\Exerc3.genruntimeconfig.cache
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\Atos\Csharp\POO\Exercicios\Exerc3\obj\Debug\net8.0\ref\Exerc3.dll
